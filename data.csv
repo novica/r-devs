@@ -1,0 +1,10 @@
+name,description,github,category,logo
+air,An R language server and formatter,https://github.com/posit-dev/air,LSP & Formatting,
+arf,A modern R console,https://github.com/eitsupi/arf,Console,
+ark,An R kernel,https://github.com/posit-dev/ark,Kernel,
+jarl,Fast linter for the R language,https://github.com/etiennebacher/jarl,LSP & Formatting,
+panache,"A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files",https://github.com/jolars/panache,LSP & Formatting,
+rig,The R Installation Manager,https://github.com/r-lib/rig,Package Management,
+rv,A declarative R package manager,https://github.com/a2-ai/rv,Package Management,
+typR,A modern type system for R,https://github.com/we-data-ch/typr,Language Extensions,
+uvr,The R version of what uv is for Python,https://github.com/nbafrank/uvr,Package Management,
