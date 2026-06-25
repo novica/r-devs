@@ -7,6 +7,7 @@ jarl,Fast linter for the R language,https://github.com/etiennebacher/jarl,LSP & 
 jarl-pre-commit,Use Jarl with pre-commit or prek,https://github.com/etiennebacher/jarl-pre-commit, Git hooks,
 panache,"A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files",https://github.com/jolars/panache,LSP & Formatting,panache.png
 rig,The R Installation Manager,https://github.com/r-lib/rig,Package Management,
+rpx,Modern package management for R,https://github.com/scalerail-solutions/rpx,Package Management,
 rv,A declarative R package manager,https://github.com/a2-ai/rv,Package Management,rv.png
 tarborist, Static analysis for navigating and debugging complex R {targets} pipelines with tree-sitter,https://github.com/tylermorganwall/tarborist,Positron and VS Code Extensions,
 typR,A modern type system for R,https://github.com/we-data-ch/typr,Language Extensions,typr.png
