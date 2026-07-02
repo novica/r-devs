@@ -1,17 +1,17 @@
 name,description,github,category,logo
-air,An R language server and formatter,https://github.com/posit-dev/air,LSP & Formatting,air.png
+air,An R language server and formatter,https://github.com/posit-dev/air,LSP & Formatting,air.webp
 air-pre-commit,A pre-commit hook for Air,https://github.com/posit-dev/air-pre-commit, Git hooks,
 arf,A modern R console,https://github.com/eitsupi/arf,Console,
-arity, Language server, formatter, and linter for R,https://github.com/jolars/arity,LSP & Formatting,arity.png
-ark,An R kernel,https://github.com/posit-dev/ark,Kernel,ark.png
+arity, Language server, formatter, and linter for R,https://github.com/jolars/arity,LSP & Formatting,arity.webp
+ark,An R kernel,https://github.com/posit-dev/ark,Kernel,ark.webp
 jarl,Fast linter for the R language,https://github.com/etiennebacher/jarl,LSP & Formatting,
 jarl-pre-commit,Use Jarl with pre-commit or prek,https://github.com/etiennebacher/jarl-pre-commit, Git hooks,
-panache,"A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files",https://github.com/jolars/panache,LSP & Formatting,panache.png
+panache,"A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files",https://github.com/jolars/panache,LSP & Formatting,panache.webp
 rig,The R Installation Manager,https://github.com/r-lib/rig,Package Management,
 rpx,Modern package management for R,https://github.com/scalerail-solutions/rpx,Package Management,
-rv,A declarative R package manager,https://github.com/a2-ai/rv,Package Management,rv.png
+rv,A declarative R package manager,https://github.com/a2-ai/rv,Package Management,rv.webp
 tarborist, Static analysis for navigating and debugging complex R {targets} pipelines with tree-sitter,https://github.com/tylermorganwall/tarborist,Positron and VS Code Extensions,
-typR,A modern type system for R,https://github.com/we-data-ch/typr,Language Extensions,typr.png
+typR,A modern type system for R,https://github.com/we-data-ch/typr,Language Extensions,typr.webp
 uvr,The R version of what uv is for Python,https://github.com/nbafrank/uvr,Package Management,
 q2,Experimental implementation of Quarto 2 in Rust,https://github.com/quarto-dev/q2,Publishing system,
 quarto-wizard,A Visual Studio Code Extension for Quarto Projects,https://m.canouil.dev/quarto-wizard/,Publishing system,
