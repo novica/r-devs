@@ -4,6 +4,7 @@ air-pre-commit,"A pre-commit hook for Air",https://github.com/posit-dev/air-pre-
 arf,"A modern R console",https://github.com/eitsupi/arf,Console,
 arity,"Language server, formatter, and linter for R",https://github.com/jolars/arity,LSP & Formatting,arity.webp
 ark,"An R kernel",https://github.com/posit-dev/ark,Kernel,ark.webp
+ir,"Self-describing R scripts, cached package libraries, and reproducible command-line runs.",https://github.com/r-lib/ir,Package Management, 
 jarl,"Fast linter for the R language",https://github.com/etiennebacher/jarl,LSP & Formatting,
 jarl-pre-commit,"Use Jarl with pre-commit or prek",https://github.com/etiennebacher/jarl-pre-commit, Git hooks,
 panache,"A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files",https://github.com/jolars/panache,LSP & Formatting,panache.webp
