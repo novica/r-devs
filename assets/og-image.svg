@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="15%" r="75%">
+      <stop offset="0%" stop-color="#1a2e22"/>
+      <stop offset="100%" stop-color="#141412"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <!-- grid of faint dots for texture -->
+  <g fill="#2e2e28">
+    <circle cx="60" cy="60" r="2"/><circle cx="120" cy="60" r="2"/><circle cx="180" cy="60" r="2"/>
+    <circle cx="60" cy="120" r="2"/><circle cx="120" cy="120" r="2"/><circle cx="180" cy="120" r="2"/>
+    <circle cx="60" cy="180" r="2"/><circle cx="120" cy="180" r="2"/><circle cx="180" cy="180" r="2"/>
+  </g>
+
+  <!-- card mock, echoing the site's tool cards -->
+  <g transform="translate(760,360)">
+    <rect x="0" y="0" width="360" height="150" rx="10" fill="#1e1e1a" stroke="#2e2e28" stroke-width="2"/>
+    <rect x="24" y="24" width="40" height="40" rx="8" fill="#1a2e22"/>
+    <text x="44" y="50" font-family="Consolas, monospace" font-size="16" fill="#74c69d" text-anchor="middle">rx</text>
+    <rect x="78" y="34" width="120" height="14" rx="3" fill="#3a3a34"/>
+    <rect x="24" y="86" width="312" height="10" rx="3" fill="#2e2e28"/>
+    <rect x="24" y="104" width="230" height="10" rx="3" fill="#2e2e28"/>
+    <rect x="24" y="128" width="70" height="20" rx="4" fill="#1a2e22"/>
+  </g>
+  <g transform="translate(760,220)" opacity="0.55">
+    <rect x="0" y="0" width="360" height="110" rx="10" fill="#1e1e1a" stroke="#2e2e28" stroke-width="2"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="80" y="270" font-family="Consolas, monospace" font-size="64" font-weight="bold" fill="#e8e8e0">new <tspan fill="#74c69d">R</tspan> tooling</text>
+
+  <text x="80" y="330" font-family="Segoe UI, sans-serif" font-size="26" fill="#888880">
+    <tspan x="80" dy="0">Modern tools for the R language — formatters,</tspan>
+    <tspan x="80" dy="36">linters, kernels, package managers, and more.</tspan>
+  </text>
+
+  <text x="80" y="560" font-family="Consolas, monospace" font-size="20" fill="#52796f">r-devs.com</text>
+</svg>
