@@ -8,7 +8,7 @@ carrier,"A module manager for {box} modules",https://github.com/joshuamarie/carr
 ir,"Self-describing R scripts, cached package libraries, and reproducible command-line runs.",https://github.com/r-lib/ir,Package Management, 
 jarl,"Fast linter for the R language",https://github.com/etiennebacher/jarl,LSP & Formatting,
 jarl-pre-commit,"Use Jarl with pre-commit or prek",https://github.com/etiennebacher/jarl-pre-commit, Git hooks,
-okr,"Reproducible R source context for coding agents",https://github.com/nanxstats/okr,LLM assistance
+okr,"Reproducible R source context for coding agents",https://github.com/nanxstats/okr,LLM assistance,
 panache,"A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files",https://github.com/jolars/panache,LSP & Formatting,panache.webp
 panache-action,"Github action for running panache",https://github.com/jolars/panache-action,CI/CD,
 panache-pre-commit,"Pre-commit hooks for Panache",https://github.com/jolars/panache-pre-commit, Git hooks,
