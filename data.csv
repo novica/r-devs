@@ -19,6 +19,7 @@ rd2qmd,"A fast Rd-to-Quarto Markdown converter written in Rust, with intelligent
 rig,"The R Installation Manager",https://github.com/r-lib/rig,Package Management,
 rpx,"Modern package management for R",https://github.com/scalerail-solutions/rpx,Package Management,
 rv,"A declarative R package manager",https://github.com/a2-ai/rv,Package Management,rv.webp
+ry,"A fast static checker for the R language, written in Rust and inspired by astral's ty.",https://github.com/sims1253/ry,LSP & Formatting,ry.webp
 tarborist,"Static analysis for navigating and debugging complex R {targets} pipelines with tree-sitter",https://github.com/tylermorganwall/tarborist,Positron and VS Code Extensions,
 typR,"A modern type system for R",https://github.com/we-data-ch/typr,Language Extensions,typr.webp
 uvr,"The R version of what uv is for Python",https://github.com/nbafrank/uvr,Package Management,
